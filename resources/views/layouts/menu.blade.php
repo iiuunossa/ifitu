@@ -9,7 +9,7 @@
 </head>
 <body>
    <p>
-    @yield('content')
+    
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand" href="#">
           <img src="/image/logo.png" width="100" height="100" alt="">
@@ -28,9 +28,11 @@
         </div>
       </nav>
    </p>
-
+<a href="">@yield('content')</a>
 <footer>
-    @yield('footer')
+    <h1>
+      @yield('footer')
+    </h1>
     <!-- Footer -->
     <footer class="page-footer font-small mdb-color pt-4">
     <!-- Footer Links -->
