@@ -20,10 +20,10 @@
       <!-- Grid column -->
       <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
         <h6 class="text-uppercase mb-4 font-weight-bold">หน้าหลัก</h6>
-          <a href="#!">เกี่ยวกับโครงการ</a><br>
-          <a href="#!">ลงทะเบียน</a><br>
-          <a href="#!">ข้อมูลสมาชิก</a><br>
-          <a href="#!">เข้าสู่ระบบ</a><br>
+          <a href="/about">เกี่ยวกับโครงการ</a><br>
+          <a href="/register">ลงทะเบียน</a><br>
+          <a href="/member">ข้อมูลสมาชิก</a><br>
+          <a href="/login">เข้าสู่ระบบ</a><br>
       </div>
       <!-- Grid column -->
 
@@ -62,19 +62,8 @@
       <div class="col-md-7 col-lg-8">
 
         <!--Copyright-->
-        <p class="text-center text-md-left">© 2019 Copyright: IT Medicine
-         
-        </p>
-
+        <p class="text-center text-md-left">© 2019 Copyright: IT Medicine</p>
       </div>
-      <!-- Grid column -->
-
-
-
     </div>
-    <!-- Grid row -->
-
   </div>
-  <!-- Footer Links -->
-
 </footer>
