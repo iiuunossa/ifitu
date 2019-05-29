@@ -32,8 +32,8 @@
       <!-- Grid column -->
       <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
         <h6 class="text-uppercase mb-4 font-weight-bold">ลิงก์ที่เกี่ยวข้อง</h6>
-          <a href="#!">ค่า BMI มาตรฐาน</a><br>
-          <a href="#!">Step Test</a><br>
+          <a href="https://ss.mahidol.ac.th/th2/index.php?option=com_k2&view=item&layout=item&id=2&Itemid=218">ค่า BMI มาตรฐาน</a><br>
+          <a href="https://www.topendsports.com/testing/tests/home-step.htm">Step Test</a><br>
       </div>
 
       <!-- Grid column -->

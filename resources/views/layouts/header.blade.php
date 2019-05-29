@@ -7,8 +7,8 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="#">หน้าหลัก <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="#">เกี่ยวกับโครงการ</a>
+            <a class="nav-item nav-link active" href="/index">หน้าหลัก <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="/about">เกี่ยวกับโครงการ</a>
             <a class="nav-item nav-link" href="#">ลงทะเบียน</a>
             <a class="nav-item nav-link" href="#">ข้อมูลสมาชิก</a>
             <a class="nav-item nav-link" href="#">เข้าสู่ระบบ</a>
